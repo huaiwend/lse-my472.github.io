@@ -282,17 +282,17 @@ This session will offer an introduction to relational databases: structure, logi
 * Stephens et al. 2009. [_Teach yourself SQL in one hour a day_](https://books.google.co.uk/books?hl=en&lr=&id=9fDZ_rVoxx0C&oi=fnd&pg=PR5&dq=%22Sams+Teach+Yourself+SQL+in+24+Hours%22&ots=UkaClJDMem&sig=wgLy-DG3bc7g0LO0_Ojy5Cy2Ejs#v=onepage&q=%22Sams%20Teach%20Yourself%20SQL%20in%2024%20Hours%22&f=false). Sam's Publishing.
 
 ##### Lab: SQL
-
 - Further analysis of public Facebook data in an SQLite database
 
 
-#### 10. Interacting with online databases
+#### 10. NoSQL and online databases
 
-This week, we will dive deeper into the databases. In particular, this week covers following topics: How to set up and use relational databases in the cloud, how to obtain big data analytics through data warehousing services (e.g. Google BigQuery), and fundamentals of noSQL databases.
+This week covers how to set up and use relational databases in the cloud and fundamentals of a document based NoSQL database.
 
 ##### Resources
-- [Lecture slides](week10/MY472-week10.pdf)
-- [Examples](https://github.com/lse-my472/lse-my472.github.io/tree/master/week10)
+- [Lecture slides](week10/my472-week10-nosql-and-cloud-db.pdf)
+- R examples: [Creating own databases in the cloud](week10/01-bigquery-create-own-databases.Rmd), [querying large cloud databases](week10/02-bigquery-examples.Rmd), [MongoDB](week10/03-mongodb-demo.Rmd)
+
 
 ##### Required reading
 * Beaulieu. 2009. [_Learning SQL_](https://books.google.co.uk/books?hl=en&lr=&id=1PgCCVryjOQC&oi=fnd&pg=PR3&dq=learning+sql+alan&ots=X6M3Iaz1wO&sig=38Fp1kDlxM8TF7miw0K2CNcKib4#v=onepage&q=learning%20sql%20alan&f=false). O'Reilly. (Chapters 2)
@@ -300,15 +300,14 @@ This week, we will dive deeper into the databases. In particular, this week cove
 * Tigani and Naidu. 2017. [_Google BigQuery Analytics_](https://books.google.co.uk/books?id=LDaiAwAAQBAJ&printsec=frontcover&dq=bigquery&hl=en&sa=X&ved=0ahUKEwj6yZ-MvOPeAhXHCcAKHWJxBSEQ6AEIMzAB#v=onepage&q&f=false). Weily. (Chapters 1-3)
 
 ##### Recommended reading
-* [MongoDB Basics](https://www.edx.org/course/mongodb-basics) on edX
 * [Analyzing Big Data in less time with Google BigQuery](https://www.youtube.com/watch?v=qqbYrQGSibQ) on YouTube
 
 ##### Lab
 - SQL JOINs, subqueries, and BigQuery
 
 ##### Assignment 5: Databases
-- Link to GitHub Classroom available via Moodle on Monday, November 30, 2pm
-- Deadline on Friday, December 11, 2pm
+- Link to GitHub Classroom available via Moodle on Wednesday, December 2
+- Deadline on Monday, December 14, 2pm
 
 
 #### 11. Cloud computing
